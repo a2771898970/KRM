@@ -372,7 +372,11 @@ HNN_zuo_shunsheng = {
 
 
 #CSP#
+<<<<<<< Updated upstream
  HNN_Hua_Guofeng  = {
+=======
+HNN_Hua_Guofeng  = {
+>>>>>>> Stashed changes
 	set_variable = { china_alignment = token:CHNsyndicalist }
 	retire = yes
 }
